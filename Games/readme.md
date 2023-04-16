@@ -1,3 +1,3 @@
 ```lua
-  "Currently Supported Games : Pet Simulator X"
+"Currently Supported Games : Pet Simulator X"
 ```
